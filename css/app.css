@@ -9,4 +9,5 @@ body{
     background-image: url("../img/bg.jpg");
     background-size: cover;
     font-family: "Poppins", sans-serif;
+    padding: 15px 2px;
 }
